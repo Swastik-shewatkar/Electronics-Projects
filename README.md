@@ -22,6 +22,7 @@ The system uses RFID technology and ESP32 to track guard movement and logs data 
 ### System Workflow
 
 ![Working Diagram](working-diagram.jpg.jpeg)
+
 ## 💻 Technologies Used
 
 - ESP32 Microcontroller
@@ -31,6 +32,18 @@ The system uses RFID technology and ESP32 to track guard movement and logs data 
 - Google Apps Script
 - Google Sheets Dashboard
 - Embedded C/C++
+
+- ## 📚 Skills Gained
+
+- IoT Development
+- Embedded Systems
+- RFID Technology
+- ESP32 Programming
+- Cloud Integration
+- Dashboard Development
+- Wi-Fi Communication
+- Problem Solving
+- Team Collaboration
 
 🎯 Problem Statement
 
@@ -113,4 +126,5 @@ Tap RFID
 - Tejas Bhumbare
 - Om Patil
 - Shantanu Dali
+- 
 ⭐ Give a Star if you like this project!
