@@ -126,5 +126,11 @@ Tap RFID
 - Tejas Bhumbare
 - Om Patil
 - Shantanu Dali
-- 
+
+- ## 📜 License
+
+This project was developed for educational and academic purposes as part of an Electronics & Telecommunication Engineering project.
+
+Feel free to use this project for learning and research purposes.
+
 ⭐ Give a Star if you like this project!
