@@ -1,4 +1,8 @@
 # 🛡️ IoT-Based RFID Security Patrol Monitoring System
+![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)
+![RFID](https://img.shields.io/badge/RFID-MFRC522-green)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-teal)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 📌 Overview
 
