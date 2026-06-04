@@ -107,6 +107,10 @@ Configure Google Script
 Power ON
 Tap RFID
 
-👨‍💻 Contributors
-Swastik Shewatkar
+## 👨‍💻 Team Members
+
+- Swastik Shewatkar
+- Tejas Bhumbare
+- Om Patil
+- Shantanu Dali
 ⭐ Give a Star if you like this project!
