@@ -22,6 +22,15 @@ The system uses RFID technology and ESP32 to track guard movement and logs data 
 ### System Workflow
 
 ![Working Diagram](working-diagram.jpg.jpeg)
+## 💻 Technologies Used
+
+- ESP32 Microcontroller
+- MFRC522 RFID Reader
+- Arduino IDE
+- Wi-Fi Communication
+- Google Apps Script
+- Google Sheets Dashboard
+- Embedded C/C++
 
 🎯 Problem Statement
 
