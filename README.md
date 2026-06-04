@@ -9,6 +9,19 @@
 This project is an IoT-based Security Patrol Monitoring System designed to ensure that security guards properly complete their patrol rounds in multi-floor buildings such as colleges, offices, and campuses.
 
 The system uses RFID technology and ESP32 to track guard movement and logs data in real-time to the cloud (Google Sheets) using Wi-Fi.
+## 📸 Project Images
+
+### Device Setup
+
+![Device Photo](device_photo.jpg.jpeg)
+
+### Dashboard Output
+
+![Dashboard](dashboard-photo.jpg.jpeg)
+
+### System Workflow
+
+![Working Diagram](working-diagram.jpg.jpeg)
 
 🎯 Problem Statement
 
